@@ -1,0 +1,254 @@
+.offerMain {
+  padding: 20px 96px;
+  /* position: relative; */
+  /* width: 70%; */
+  margin: auto;
+}
+.offerBoxDiv1{
+  box-sizing: border-box;
+
+width: 332px;
+height: 343px;
+background: #FFFFFF;
+border: 2px solid #E9EDEF;
+border-radius: 24px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.offerBoxDiv2{
+  width: 446px;
+  height: 343px;
+  background: #FFFFFF;
+  border-radius: 24px;
+  border: 2px solid #E9EDEF;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.offerDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 60px;
+}
+.offerHead {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: auto;
+}
+.offerHead1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 10px auto;
+}
+.btn-text {
+  font-family: "Objective";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  /* identical to box height, or 24px */
+
+  text-align: center;
+
+  /* White */
+
+  color: #ffffff;
+}
+.card-btn {
+  width: 159px;
+  height: 48px;
+  left: 1046px;
+  top: 5937px;
+
+  /* Brand/Dark
+
+043344
+*/
+  background: #043344;
+  border-radius: 4px;
+}
+.desc-p {
+  font-family: "Satoshi";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 135.5%;
+  /* or 43px */
+  width: 219px;
+
+  text-align: center;
+
+  /* Brand/Dark */
+
+  color: #043344;
+}
+.desc-p1 {
+  width: 252px;
+  
+  font-family: 'Satoshi';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 135.5%;
+  text-align: center;
+  color: #043344;
+}
+.offerPara {
+  font-family: "Satoshi";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 135.5%;
+  /* or 54px */
+
+  text-align: center;
+
+  /* Brand/Dark */
+
+  color: #043344;
+  margin: 0px;
+}
+.offerPara1 {
+  font-family: "Objective";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  color: #043344;
+  text-align: center;
+  line-height: 22.3px;
+  margin: 0px;
+}
+.offerPara2 {
+  font-family: "Objective";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  color: #043344;
+  text-align: center;
+  line-height: 20.3px;
+}
+
+.offerBox {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  gap: 20px;
+  margin: 90px 50px;
+}
+.card-heading3{
+font-family: 'Satoshi';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 135.5%;
+text-align: center;
+letter-spacing: 0.16em;
+text-transform: uppercase;
+color: #1A938A;
+}
+.desc-p3{
+  
+width: 296px;
+font-family: 'Satoshi';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 135.5%;
+text-align: center;
+color: #043344;
+}
+.offerBoxDiv1:hover,
+.offerBoxDiv2:hover{
+  box-shadow: 0px 16px 24px 2px rgba(93, 114, 140, 0.1), 0px 6px 30px 5px rgba(93, 114, 140, 0.08), 0px 8px 10px -5px rgba(93, 114, 140, 0.16);
+}
+@media screen and (max-width: 1000px) {
+  .offerBox {
+    flex-direction: column;
+    align-items: center;
+    gap: 100px;
+  }
+  .offerPara{
+    width: 340px;
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 135.5%;
+    text-align: center;
+    color: #043344;
+  }
+  .offerMain{
+    padding: 0px;
+    margin: 80px auto;
+  }
+  .offerBoxDiv1 {
+  width: 340px;
+  position: relative;
+  }
+  .offerBoxDiv2{
+    width: 340px;
+    position: relative;
+  }
+}
+.offerimg1 {
+  position: absolute;
+  /* left: 113px; */
+  bottom: 300px;
+}
+.offerimg2 {
+  position: absolute;
+  /* left: 113px; */
+  bottom: 284px;
+}
+.offerimg3 {
+  position: absolute;
+  /* left: 113px; */
+  bottom: 300px;
+}
+
+.card-heading {
+  font-family: "Satoshi";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 135.5%;
+  text-align: center;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: #1a938a;
+  /* width: 169px; */
+
+}
+.card-heading1 {
+  
+  font-family: 'Satoshi';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 135.5%;
+  text-align: center;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: #1A938A;
+
+}
+.offerList {
+  font-family: "Objective";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  color: #5d728c;
+  line-height: 20.3px;
+  width: 75%;
+}

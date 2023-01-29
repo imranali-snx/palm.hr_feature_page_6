@@ -1,0 +1,95 @@
+.top-header {
+  width: 100%;
+  background-color: #1a938a;
+  height: 28px;
+}
+.header {
+  display: flex;
+  width: 94%;
+  height: 28px;
+  position: relative;
+  align-items: center;
+  margin: auto;
+}
+.heading-ul {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 24px;
+  position: absolute;
+  top: 0px;
+  bottom: 1px;
+  right: 230px;
+  margin: auto;
+  text-decoration: none;
+  list-style: none;
+}
+.header ul li a {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 130%;
+  color: #ffffff;
+  font-family: "Satoshi" !important;
+}
+.login{
+    border-left: 1px solid #19ADA2;
+    border-right: 1px solid #19ADA2;
+    padding: 0px 10px;
+}
+.login-img {
+  position: relative;
+  top: 3px;
+  margin-right: 5px;
+  width: 16px;
+  height: 16px;
+}
+@media (max-width: 992px) {
+  .top-header{
+    display: none;
+  }
+}
+/* 
+
+@media screen and (min-width: 1300px) {
+  .heading-ul {
+   
+    right: 249px;
+    
+}
+}
+@media screen and (min-width: 1350px) {
+  .heading-ul {
+   
+    right: 245px;
+    
+}
+}
+@media screen and (min-width: 1400px) {
+  .heading-ul {
+   
+    right: 294px;
+    
+}
+}
+@media screen and (min-width: 1500px) {
+  .heading-ul {
+   
+    right: 282px;
+    
+}
+}
+@media screen and (min-width: 1600px) {
+  .heading-ul {
+   
+    right: 331px;
+    
+}
+}
+@media screen and (min-width: 1700px) {
+  .heading-ul {
+   
+    right: 341px;
+    
+}
+} */

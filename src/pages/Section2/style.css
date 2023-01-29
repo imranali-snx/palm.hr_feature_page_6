@@ -1,0 +1,131 @@
+@media screen and (min-width: 992px) {
+  body {
+    margin: 0px;
+    overflow-x: hidden;
+  }
+  .videosec-p {
+    /* width: 400px; */
+    font-family: "Satoshi";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    color: #043344;
+    margin-bottom: 0px;
+  }
+  .videosec-p2 {
+    /* width: 400px; */
+    font-family: "Satoshi";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    color: #043344;
+    margin-top: 0px;
+  }
+
+  .videosec-h {
+    /* width: 425px;
+  height: 80px; */
+    font-family: "Objective";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 125%;
+    color: #ec9a2b;
+    margin-bottom: 24px;
+  }
+  .videosec-h2 {
+ display: none;
+  }
+
+  .video {
+    width: 560px;
+    height: 317px;
+    border-radius: 14px;
+  }
+
+  .video-sec-padding h2,
+  .video-sec-padding p {
+    padding-left: 146px;
+  }
+  .pad-left {
+    padding-left: 13px;
+    margin: 105px 0px;
+  }
+  .video-sec-padding {
+    margin: 113px 0px;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  body {
+    margin: 0px;
+    overflow-x: hidden;
+  }
+  .videosec-p {
+    /* width: 400px; */
+    font-family: "Satoshi";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    color: #043344;
+    margin-bottom: 0px;
+    width: 343px;
+  }
+  .videosec-p2 {
+    /* width: 400px; */
+    font-family: "Satoshi";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    color: #043344;
+    margin-top: 0px;
+    width: 343px;
+  }
+
+  .videosec-h {
+    display: none;
+  }
+  .videosec-h2 {
+    /* width: 425px;
+  height: 80px; */
+    font-family: "Objective";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 125%;
+    color: #ec9a2b;
+    margin-bottom: 24px;
+    width: 343px;
+  }
+
+  .video {
+    width: 343px;
+    height: 192.1px;
+    
+    border-radius: 8.4841px;
+  }
+
+  .video-sec-padding h2,
+  .video-sec-padding p {
+    /* padding-left: 146px; */
+  }
+  .pad-left {
+    margin-top: 0px;
+    margin-bottom: 39px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+  .video-sec-padding {
+    margin-top: 40px;
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}

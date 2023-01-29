@@ -1,0 +1,185 @@
+@media screen and (min-width: 993px) {
+  .r1 {
+    padding-left: 40px;
+    padding-top: 20px;
+  }
+  .r2 {
+    font-style: normal;
+    font-size: 32px;
+    line-height: 133.3%;
+    width: 360px;
+    color: #043344;
+  }
+  .r3 {
+    width: 450px;
+    font-style: normal;
+    font-family: "Satoshi";
+    font-size: 18px;
+    line-height: 125%;
+    color: #205260;
+  }
+  .r33 {
+    width: 450px;
+    font-style: normal;
+    font-family: "Satoshi";
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 125%;
+    color: #205260;
+  }
+  .st-css {
+    font-style: normal;
+    font-family: "Satoshi";
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 125%;
+    color: #205260;
+  }
+  .r4 {
+    width: 174px;
+    border: 1px solid #1a938a;
+    border-radius: 4px;
+    font-style: normal;
+    font-weight: 500;
+    font-family: "Satoshi";
+    font-size: 18px;
+    color: #bec9d0;
+  }
+  .r4:focus::placeholder {
+    color: #043344;
+  }
+  .r5:focus::placeholder {
+    color: #043344;
+  }
+  .r5 {
+    width: 100%;
+    border: 1px solid #1a938a;
+    border-radius: 4px;
+    font-style: normal;
+    font-family: "Satoshi";
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 150%;
+    color: #bec9d0;
+    height: 48px;
+  }
+  .ant-form-item-explain-error {
+    padding-left: 30px;
+  }
+  .r6 {
+    width: 390px;
+    border-radius: 4px;
+  }
+
+  .zain-1 {
+    background: #ec9a2b;
+    border-radius: 4px;
+    height: 40px;
+  }
+  .r7 {
+    font-family: "Satoshi";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 150%;
+    color: #ffffff;
+  }
+  .mobile {
+    display: none;
+  }
+  .r8 {
+    background: #e9edef;
+    border-radius: 24px;
+    padding: 40px;
+    height: 488px;
+  }
+  .r9 {
+    padding-bottom: 30px;
+    padding-top: 45px;
+    padding-left: 103px;
+    padding-right: 103px;
+  }
+  .r10 {
+    margin-top: 15px;
+  }
+}
+@media screen and (max-width: 992px) {
+  .mr-0 {
+    margin-left: 8px;
+  }
+  .mobile {
+    background-color: #e9edef;
+    padding-left: 18px;
+    padding-top: 40px;
+    padding-right: 18px;
+    padding-bottom: 40px;
+  }
+  .r7 {
+    font-family: "Satoshi";
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    color: #ffffff;
+  }
+  .zain-1 {
+    background: #043344;
+    border-radius: 4px;
+    height: 48px;
+    color: #ffffff;
+  }
+  .r1 {
+    padding-left: 0px;
+    padding-top: 10px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .desktop {
+    display: none;
+  }
+  .r2 {
+    width: 95%;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 133.3%;
+    color: #043344;
+  }
+  .Empower p {
+    padding-left: 16px;
+  }
+  .r3 {
+    width: 92%;
+    font-size: 16px;
+    /*  */
+    font-style: normal;
+    font-weight: 500;
+    line-height: 145%;
+    color: #043344;
+  }
+  .r33 {
+    display: none;
+  }
+  .r4 {
+    width: 150px;
+    height: 48px;
+  }
+  .r5 {
+    width: 342px;
+    height: 48px;
+  }
+  .r05 {
+    width: 342px;
+    height: 48px;
+  }
+
+  .r8 {
+    background: #093043;
+    border-radius: 10px;
+  }
+  .r6 {
+    width: 100%;
+  }
+}
