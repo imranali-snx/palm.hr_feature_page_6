@@ -83,7 +83,10 @@ body {
   }
 
   .desktop-img {
-    width: 98%;
+    position: relative;
+    right: 110px;
+    width: 800px;
+    height: 508px;
   }
   .mobile-img{
     display: none;

@@ -13,6 +13,9 @@
     
     color: #1A938A;
   }
+  .section4-margin-top{
+    margin-top: 53px;
+  }
   .mobile112{
     display: none;
   }
@@ -37,8 +40,9 @@
     color: #043344;
     text-align: left;
     margin-bottom: 24px;
-    height: 100px;
-    width: 275px;
+    /* height: 100px; */
+    width: 395px;
+    margin-top: 24px;
   }
 
   .descrypt1 {
@@ -68,7 +72,7 @@
     padding-left: 148px;
   }
   .list-ul1 {
-    width: 405px;
+    width: 435px;
     padding: 0px;
   }
   .list-ul1-mbl {
@@ -78,7 +82,7 @@
     display: flex;
   }
   .img-size1 {
-    width: 98%;
+    width: 100%;
   }
   .img-size1-mbl {
     display: none;

@@ -12,7 +12,7 @@ const Section3 = () => {
 
   return (
     <div>
-      <Row className=" ">
+      <Row className="Section7-margin-top">
         <Col xxl={12} xl={12} lg={24} md={24} sm={24} xs={24} className="">
           <div className="mobile-show">
             <p className="title4">{data?.title1}</p>

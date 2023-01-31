@@ -4,7 +4,7 @@ import { Button } from "antd";
 import { data } from "../../Data/Section1";
 import herosecMbl from "../../images/Headerimage-mbl.svg";
 import herosec from "../../images/Headerimage.svg";
-import icons from "../../images/icon-hero.svg";
+import icons from "../../images/Frame.svg";
 
 import "./style.css";
 
@@ -30,7 +30,7 @@ const Section1 = () => {
         </Col>
         <Col
           xxl={14}
-          xl={12}
+          xl={13}
           lg={24}
           md={24}
           sm={24}

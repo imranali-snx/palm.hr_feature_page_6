@@ -1,11 +1,11 @@
 @media screen and (min-width: 993px) {
   .Green-HeightFirst {
-    height: 365px;
     width: 100%;
     background: #1a938a;
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 270px;
   }
   .Green {
     display: flex;
@@ -14,7 +14,7 @@
     align-items: center;
   }
   .titleFirst {
-    width: 810px;
+    /* width: 810px; */
     /* height: 54px; */
     font-family: "Satoshi";
     font-style: normal;
@@ -26,7 +26,7 @@
     margin-bottom: 24px;
   }
   .descryptfirst {
-    width: 1000px;
+    width: 700px;
     /* height: 64px; */
     margin-top: 0px;
 

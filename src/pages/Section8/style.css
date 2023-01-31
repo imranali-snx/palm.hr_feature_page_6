@@ -2,8 +2,8 @@
   .title5 {
     margin-bottom: 24px;
 
-    width: 390px;
-    height: 100px;
+    width: 106%;
+    /* height: 100px; */
 
     font-family: "Satoshi";
     font-style: normal;
@@ -14,7 +14,17 @@
 
     /* Brand/Dark */
 
-    color: #043344;
+    color: #F45147;
+  }
+  .Section8-margin-top {
+    margin-top: 0px;
+    background-image: url("../../images/sectionLastBackground.svg");
+    margin-top: -80px;
+    padding-top: 115px;
+    height: 100vh;
+  }
+  .section8-margin{
+    margin-top: 18px;
   }
   .tick {
     color: #ec9a2b;
@@ -25,7 +35,7 @@
     width: 90%;
     position: relative;
     top: 65px;
-    left: 65px;
+    left: 75px;
   }
   .img-size5-mbl {
     display: none;
@@ -56,13 +66,13 @@
     padding-left: 148px;
   }
   .list-ul5 {
-    width: 515px;
+    width: 430px;
     padding: 0px;
   }
   .bullets {
     display: flex;
   }
- 
+
   .list-ul5-mbl {
     display: none;
   }
@@ -125,7 +135,7 @@
   .bullets {
     display: flex;
   }
- 
+
   .list-ul5 {
     display: none;
   }

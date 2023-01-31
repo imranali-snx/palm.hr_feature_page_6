@@ -1,6 +1,6 @@
 export const data = {
-    title1: "The Digital Shift Master.",
-    description: "Work Scheduling & Shift Planning",
-    lists:["Effortlessly plan and schedule your team's shifts with precision, ensuring coverage and maximizing productivity.","Eliminate the headache of manual scheduling with real-time updates and notifications for shift changes and conflicts.","Streamline communication and collaboration among team members and managers with the ability to easily swap, pick-up and drop shifts."]
+    title1: "Business registration",
+    description: "Employee Self Service Profiles and Data",
+    lists:["Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.","Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur tempus urna at turpis condimentum lobortis.","Ut commodo efficitur neque. Ut diam quam, semper iaculis condimentum ac, vestibulum eu nisl."]
    
 }

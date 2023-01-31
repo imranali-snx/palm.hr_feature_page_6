@@ -11,7 +11,7 @@ import { CheckCircleOutlined } from "@ant-design/icons";
 const Section4 = () => {
   return (
     <div>
-      <div className="mobile11">
+      {/* <div className="mobile11">
         <p className="main-heading">
         Time & Attendance
         </p>
@@ -21,8 +21,8 @@ const Section4 = () => {
       </div>
       <div className="mobile112">
         <p className="main-heading-mbl-second">& Attendance</p>
-      </div>
-      <Row className=" ">
+      </div> */}
+      <Row className="section4-margin-top">
         <Col xxl={12} xl={12} lg={24} md={24} sm={24} xs={24}>
           <div className="text-shape">
             <div className="mbl">

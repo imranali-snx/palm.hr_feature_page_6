@@ -10,13 +10,16 @@
     font-weight: 700;
     font-size: 40px;
     line-height: 125%;
-    color: #043344;
+    color: #F45147;
     text-align: left;
     margin-bottom: 24px;
     /* height: 100px; */
-    width: 477px;
+    width: 350px;
+    margin-top: 0px;
   }
-
+.Section7-margin-top{
+  margin-top: 100px;
+}
   .descrypt4 {
     font-family: "Satoshi";
     font-style: normal;
@@ -51,7 +54,7 @@
     display: flex;
   }
   .img-size4 {
-    width: 98%;
+    width: 100%;
     margin-left: 12px;
   }
   .img-size4-mbl {

@@ -11,9 +11,9 @@ import { CheckCircleOutlined } from "@ant-design/icons";
 const Section8 = () => {
 
   return (
-    <div style={{paddingTop:30}}>
-      <Row className=" ">
-        <Col xxl={12} xl={11} lg={24} md={24} sm={24} xs={24}>
+    <div >
+      <Row className="Section8-margin-top ">
+        <Col xxl={12} xl={11} lg={24} md={24} sm={24} xs={24} className="section8-margin">
           <div className="text-shape">
             <div className="mbl5">
               <p className="title5">{data?.title1}</p>

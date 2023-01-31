@@ -12,7 +12,7 @@ const Section6 = () => {
 
   return (
     <div>
-      <Row className=" ">
+      <Row className="section6-margin-top ">
         <Col xxl={12} xl={12} lg={24} md={24} sm={24} xs={24}>
           <div className="text-shape">
             <div className="mbl2">

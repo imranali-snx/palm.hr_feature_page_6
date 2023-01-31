@@ -10,7 +10,7 @@ import { CheckCircleOutlined } from "@ant-design/icons";
 const Section3 = () => {
   return (
     <div>
-      <Row className=" ">
+      <Row className="section5-margin-top">
         <Col xxl={12} xl={12} lg={24} md={24} sm={24} xs={24} className="">
           <div className="desk3">
             <p className="title3">{data?.title3}</p>

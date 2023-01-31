@@ -10,6 +10,9 @@
       margin-bottom: 0px;
       /* height: 100px; */
     }
+    .section5-margin-top{
+      margin-top: 54px;
+    }
     .title32 {
       width: 100%;
       font-family: 'Satoshi';
@@ -57,14 +60,15 @@
       padding-left: 75px;
     }
     .list-ul3 {
-      width: 510px;
+      width: 435px;
       padding: 0px;
     }
     .bullets{
       display: flex;
     }
     .img-size3{
-      width: 98%;
+      width: 95%;
+      margin-left: 33px;
     }
     .img-size3-mbl{
       display: none;

@@ -1,8 +1,8 @@
 export const data = {
-    title1: "One-Stop-Shop for Time",
-    title2:"Off & Absence Management.",
-    title3:"One-Stop-Shop for Time Off & Absence Management.",
-    description: "Time Off / Absence & Leaves",
-    lists:["palm.hr's time off and absence feature allows managers to easily approve or deny leave requests with just a click, while ensuring compliance with company policies","Eliminate confusion and misunderstandings by having all leave information in one central location with palm.hr's time off and absence feature.","With real-time updates and notifications, you'll always be aware of who's out of the office and when, allowing for seamless coverage and productivity."]
+    title1: "Get answers to your ",
+    title2:"questions.",
+    title3:"Get answers to your questions.",
+    description: "Human Resources Consultations",
+    lists:["palm.hr’s senior HR professionals are here to help you understand the nuances of ","Whether you’re just starting out, or facing a human resource challenge, our experts are here to answer your questions."]
    
 }

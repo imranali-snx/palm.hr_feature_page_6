@@ -1,8 +1,8 @@
 export const data = {
-    title1: "TIME MANAGEMENT",
-    description: "Intelligent Time Tracking",
-    description2:"The Ultimate Time Management & Attendance Solution",
-    description3:"The Ultimate Time Management & Attendance Solution",
+    title1: "CONCIERGE",
+    description: "HR Consultancy: Concierge Advisory & Support",
+    description2:"What you need, when you need it.",
+    description3:"Your outsourced HR team",
     btn:"Book a Free Demo",
    
 }

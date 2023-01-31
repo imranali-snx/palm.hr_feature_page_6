@@ -1,6 +1,11 @@
 export const data = {
-    title1: "Virtual Management for Virtual Teams.",
-    description: "Virtual Management for Virtual Teams",
-    lists:["Easily track and manage remote employee attendance, productivity, and location with palm.hr's remote work management feature.","Improve remote employee engagement and retention with palm.hr's remote work management feature that keeps remote workers connected to the company culture.","Track and monitor remote employee productivity with customizable reports and time tracking features, ensuring that your remote team is staying on task and meeting goals."]
-   
-}
+  title1: "Local business knowledge",
+  description: "Employee Self Service Profiles and Data",
+  lists: [
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+
+    "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur tempus urna at turpis condimentum lobortis.",
+
+    "Ut commodo efficitur neque. Ut diam quam, semper iaculis condimentum ac, vestibulum eu nisl.",
+  ],
+};

@@ -1,6 +1,6 @@
 export const data = {
-    title1: "Timekeeping on the go.",
-    description: "Mobile Check-in & Check-out",
-    lists:["Say goodbye to paper timesheets and hello to seamless check-in and check-out with just a tap on your mobile device - from anywhere!","No more buddy punching or manual data entry errors. palm.hr's mobile check-in feature with biometrics verification ensures accurate time tracking for all employees.","Easily track attendance, punctuality, and employee check-in locations all in one place with palm.hr's mobile check-in feature."]
+    title1: "Get your own HR team by tomorrow.",
+    description: "Human Resources Operations",
+    lists:["Get real-time visibility of all employee data, from contact information to performance metrics, all in one place.","Easily track employee progress and identify areas of improvement, with customizable performance metrics.","Quickly access employee information and documents, with the ability to set permissions and access controls."]
    
 }
