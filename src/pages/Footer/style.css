@@ -61,6 +61,12 @@ button.ant-btn.css-dev-only-do-not-override-1n7nwfa.ant-btn-primary.ant-btn-lg.a
   background: #1a938a !important;
   border-radius: 4px;
 }
+.ant-input-search >.ant-input-group >.ant-input-group-addon:last-child .ant-input-search-button{
+  background-color: #1a938a !important;
+  width: 216px;
+  height: 38px;
+  border-radius: 4px;
+  }
 
 .css-dev-only-do-not-override-1i9hnpv.ant-input-search
   > .ant-input-group
