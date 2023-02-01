@@ -3,9 +3,9 @@ import React from "react";
 
 import "./style.css";
 import OfferSectionList from "./card";
-import pic1 from "../../images/time-manage.svg";
-import pic2 from "../../images/compensation.svg";
-import pic3 from "../../images/talent.svg";
+import pic1 from "../../images/feature6-time-manage.svg";
+import pic2 from "../../images/feature6-compensation.svg";
+import pic3 from "../../images/feature6-talent.svg";
 
 const Offersection = () => {
   const data = [

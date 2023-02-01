@@ -3,9 +3,9 @@ import useWindowDimensions from "../utiles";
 import { Col, Row } from "antd";
 
 import { data } from "../../Data/Section2";
-import posterDesktop from "../../images/Video-sec.svg";
-import postermbl from "../../images/Video-sec-mbl.svg";
-import video from "../../images/video.mp4";
+import posterDesktop from "../../images/feature6-Video-sec.svg";
+import postermbl from "../../images/feature6-Video-sec-mbl.svg";
+import video from "../../images/feature6-video.mp4";
 
 import "./style.css";
 

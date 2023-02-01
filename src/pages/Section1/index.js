@@ -2,9 +2,9 @@ import React from "react";
 import { Col, Row } from "antd";
 import { Button } from "antd";
 import { data } from "../../Data/Section1";
-import herosecMbl from "../../images/Headerimage-mbl.svg";
-import herosec from "../../images/Headerimage.svg";
-import icons from "../../images/Frame.svg";
+import herosecMbl from "../../images/feature6-Headerimage-mbl.svg";
+import herosec from "../../images/feature6-Headerimage.svg";
+import icons from "../../images/feature6-Frame.svg";
 
 import "./style.css";
 

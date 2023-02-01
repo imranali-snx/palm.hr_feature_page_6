@@ -2,10 +2,10 @@ import React, { useRef } from "react";
 import { Button } from "antd";
 
 import "./style.css";
-import Logo from "../../images/logo-dek.svg";
-import MblLogo from "../../images/logo-mbl.svg";
-import CallIcon from "../../images/call.svg";
-import g2 from "../../images/downArrow.svg";
+import Logo from "../../images/feature6-logo-dek.svg";
+import MblLogo from "../../images/feature6-logo-mbl.svg";
+import CallIcon from "../../images/feature6-call.svg";
+import g2 from "../../images/feature6-downArrow.svg";
 import { CloseOutlined, MenuOutlined } from "@ant-design/icons";
 export default function Header() {
   const navRef = useRef();

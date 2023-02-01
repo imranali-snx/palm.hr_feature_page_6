@@ -3,14 +3,14 @@ import { Col, Row, Form, Button, Typography } from "antd";
 import { Input, Divider } from "antd";
 
 import "./style.css";
-import a1 from "../../images/a1.svg";
-import a2 from "../../images/a2.svg";
-import a3 from "../../images/a3.svg";
-import a4 from "../../images/a4.svg";
-import a5 from "../../images/a5.svg";
-import a6 from "../../images/a6.svg";
-import a7 from "../../images/a7.svg";
-import a8 from "../../images/a8.svg";
+import a1 from "../../images/feature6-a1.svg";
+import a2 from "../../images/feature6-a2.svg";
+import a3 from "../../images/feature6-a3.svg";
+import a4 from "../../images/feature6-a4.svg";
+import a5 from "../../images/feature6-a5.svg";
+import a6 from "../../images/feature6-a6.svg";
+import a7 from "../../images/feature6-a7.svg";
+import a8 from "../../images/feature6-a8.svg";
 const { Search } = Input;
 
 const { Paragraph, Text } = Typography;

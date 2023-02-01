@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import login from "../../images/LoginIcon.svg";
+import login from "../../images/feature6-LoginIcon.svg";
 import "./style.css";
 import ReactFlagsSelect from "react-flags-select";
 import "./flags.css";

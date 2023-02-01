@@ -2,8 +2,8 @@ import React from "react";
 import { Col, Row } from "antd";
 
 import { data } from "../../Data/Section5";
-import img from "../../images/one.svg";
-import img_mbl from "../../images/one-mbl.svg";
+import img from "../../images/feature6-one.svg";
+import img_mbl from "../../images/feature6-one-mbl.svg";
 import "./style.css";
 import { CheckCircleOutlined } from "@ant-design/icons";
 
